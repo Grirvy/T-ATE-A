@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "install": "express if-env nodemon concurrently"
+    "install": "npm install express if-env nodemon concurrently"
   },
   "author": "",
   "license": "ISC",
