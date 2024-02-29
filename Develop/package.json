@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "install": "npm install express if-env nodemone concurrently"
+    "start": "nodemon server.js",
+    "install": ""
   },
   "author": "",
   "license": "ISC",
